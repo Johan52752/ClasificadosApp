@@ -4,7 +4,7 @@ function inicio(){
 function getUsers(){
     fetch('http://localhost:5000/users',{method:'GET'})
     .then(response=>response.json())
-    .then(msg=>verifyUser(msg))
+    .then(params=>verifyUser(params))
 }
 function verifyUser(params){
     const form_index=document.getElementsByClassName("login-form")
