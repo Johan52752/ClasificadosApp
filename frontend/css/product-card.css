@@ -1,0 +1,88 @@
+.tittle-product{
+    color:#233BA0;
+}
+.image-product{
+    
+}
+.description-product{
+    color:#9D9D9D;
+    margin-top: 31px;
+}
+.product-card{
+    margin: 37;
+    display: block; 
+}
+.direccion-product{
+   display:flex;
+   align-items: center;
+   margin-left: 33px;
+}
+.direccion-product p{
+    margin-left: 16px;
+    color: var(--unnamed-color-233ba0);
+    text-align: left;
+    letter-spacing: 0px;
+    color: #233BA0;
+    opacity: 1;
+ }
+.numberphone-product{
+    display:flex;
+    align-items: center;
+    margin-left: 33px;
+ }
+ .numberphone-product p{
+    margin-left: 16px;
+    color: var(--unnamed-color-233ba0);
+    text-align: left;
+    letter-spacing: 0px;
+    color: #233BA0;
+    opacity: 1;
+ }
+ .email-product{
+    display:flex;
+    align-items: center;
+    margin-left: 33px;
+ }
+ .email-product p{
+    margin-left: 16px;
+    color: var(--unnamed-color-233ba0);
+    text-align: left;
+    letter-spacing: 0px;
+    color: #233BA0;
+    opacity: 1;
+ }
+ .fb-product{
+    display:flex;
+    align-items: center;
+    margin-left: 33px;
+ }
+ .fb-product p{
+    margin-left: 16px;
+    color: var(--unnamed-color-233ba0);
+    text-align: left;
+    letter-spacing: 0px;
+    color: #233BA0;
+    opacity: 1;
+ }
+ .button-wp{
+    display: flex;
+    justify-content: center;
+    margin-top: 48px;
+ }
+ .button-wp button{
+    top: 769px;
+    left: 86px;
+    width: 192px;
+    height: 49px;
+    background: transparent linear-gradient(180deg, #96A8FC 0%, #677FE1 100%) 0% 0% no-repeat padding-box;
+    border-radius: 28px;
+    cursor: pointer;
+    border: aquamarine;
+    opacity: 1;
+    text-align: center;
+    font: normal normal bold 18px/27px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+ }

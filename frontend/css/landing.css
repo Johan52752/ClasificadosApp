@@ -134,3 +134,11 @@ header {
 .product-card{
     margin-top: 60px;
 }
+.card{
+    display: flex;
+    margin-top: 65px;
+}
+.card-text h3{
+    text-align: left;
+    justify-content: end
+}
